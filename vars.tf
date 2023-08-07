@@ -1,5 +1,5 @@
 variable "ENV" {}
-variable "INTERNAl" {}
+variable "INTERNAL" {} 
 
 
 
